@@ -1,0 +1,6 @@
+
+Your interface GigabitEthernet1's description is conn to MGMT
+Your interface GigabitEthernet2's description is Configured via NETCONF
+Your interface GigabitEthernet3's description is not yet configured..!
+Your interface GigabitEthernet4's description is not yet configured..!
+Your interface Loopback100's description is Configured via NETCONF
